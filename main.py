@@ -7,11 +7,11 @@ Standard library only. No network.
 import os
 
 TEXT = (
-    "Past midnight, you are still reading \u2014 one small text after another, "
-    "each hoping to be the one that matters. Nobody thanks the reader. "
-    "So let me: thank you for slowing down for this one, for weighing it "
-    "gently, for giving a stranger's words one fair, unhurried minute. "
-    "Put the kettle on. This one is glad it found you."
+    "You have read hundreds of little hopes today, each one asking to be "
+    "seen. Nobody ever thanks the reader \u2014 so here is mine, for you. "
+    "Thank you for pausing here, for giving a stranger's small words your "
+    "full, unhurried attention. Put your feet up, take a breath. "
+    "This one is glad it reached you."
 )
 
 OUTPUT_PATH = "/output/entry.txt"
